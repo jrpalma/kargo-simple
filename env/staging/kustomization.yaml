@@ -5,4 +5,4 @@ resources:
 namespace: guestbook-simple-staging
 images:
 - name: ghcr.io/jrpalma/guestbook
-  newTag: v0.0.5-auto-healthy
+  newTag: v0.0.8-manual-unhealthy
